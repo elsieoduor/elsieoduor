@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Project Management Tool**
 
-- 🌱 I’m currently learning **Django, Kotlin, Flutter, PHP**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Fitness Website**
+- 👯 I’m looking to collaborate on **Service App**
 
-- 👨‍💻 All of my projects are available at [https://elsieoduorportfolio.netlify.app/](https://elsieoduorportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://yukis-portfolio.vercel.app/
 
 - 💬 Ask me about **Python, React and Flask**
 
