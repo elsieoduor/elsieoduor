@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Service App**
 
-- 👨‍💻 All of my projects are available at https://yukis-portfolio.vercel.app/
+- 👨‍💻 All of my projects are available at (https://elsieoduor.vercel.app/)
 
 - 💬 Ask me about **Python, React and Flask**
 
