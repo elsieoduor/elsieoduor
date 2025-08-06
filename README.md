@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsieoduor" alt="elsieoduor" /></a> </p>
 
-- 🔭 I’m currently working on **Project Management Tool**
+- 🔭 I’m currently working on **Gourmet Ride**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Service App**
+- 👯 I’m looking to collaborate on **Gourmet Ride App**
 
 - 👨‍💻 All of my projects are available at (https://elsieoduor.vercel.app/)
 
@@ -15,12 +15,11 @@
 
 - 📫 How to reach me **eoatieno@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny and I love DIY's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yukiosrandoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yukiosrandoms" height="30" width="40" /></a>
-<a href="https://instagram.com/yukiosrandoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yukiosrandoms" height="30" width="40" /></a>
+<a href="https://instagram.com/elsie.oduor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsieoduor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
